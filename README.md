@@ -28,7 +28,7 @@
 - 💻 Experienced in building applications with **Laravel**, **Django**, **Flutter**, and **React Native**
 - 🔍 Focused on **Mobile Development**, **Web Development**, and **Data Science**
 - 🎮 Hobbyist gamer and passionate about learning **coding**
-- 🌱 Currently exploring **DevOps** and **Flutter**, while growing my personal project portfolio
+- 🌱 Currently exploring **React.js** and **Flutter**, while growing my personal project portfolio
 
 ---
 
