@@ -44,7 +44,7 @@
 <img src="{BadgeURLHere}" />
 | Backend         | Frontend               | Mobile                    | DevOps        | Tools & DB                        |
 |-----------------|------------------------|---------------------------|---------------|-----------------------------------|
-| PHP, Python     | HTML, CSS, JavaScript  | ![image]({https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}), <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />    | Git, Docker   | MySQL, PostgreSQL, Firebase, MongoDB |
+| PHP, Python     | HTML, CSS, JavaScript  | Flutter, React Native    | Git, Docker   | MySQL, PostgreSQL, Firebase, MongoDB |
 | Laravel, Django | React.js, Tailwind CSS |                           | MQTT, IoT     | GitHub Actions                    |
 
 ---
