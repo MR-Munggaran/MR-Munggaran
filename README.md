@@ -41,7 +41,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIydXJ0NzlsaHF3OW01ODkzOG9rYjVjM2F6NXl0bmNwcXR6ZmE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kHlrPbN9zaoOo7KXDo/giphy.gif" alt="- Animated" width="64" height="64" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlkcHBmbG9jZnR2NW04bjdhYzYxcjZleTkzbDhqNmlkd3VjZDBjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" alt="- Animated" width="64" height="64" />
 </div>
-<img src="{BadgeURLHere}" />
+---
 | Backend         | Frontend               | Mobile                    | DevOps        | Tools & DB                        |
 |-----------------|------------------------|---------------------------|---------------|-----------------------------------|
 | PHP, Python     | HTML, CSS, JavaScript  | Flutter, React Native    | Git, Docker   | MySQL, PostgreSQL, Firebase, MongoDB |
