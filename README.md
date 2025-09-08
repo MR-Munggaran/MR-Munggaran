@@ -52,10 +52,10 @@
 
 | Project                          | Description                                                  |
 |----------------------------------|--------------------------------------------------------------|
-| [Web-Pernikahan](https://github.com/MR-Munggaran/Web-Pernikahan) | A wedding website with guest management and RSVP features    |
-| [restaurant_app](https://github.com/MR-Munggaran/restaurant_app) | Flutter app for ordering food with integrated payment gateway |
+| [LearningFy](https://github.com/MR-Munggaran/LearningFy) | A Course website with payment gateway and Learning Page    |
+| [restaurant_app](https://github.com/MR-Munggaran/restaurant_app) | Flutter app for recomendation Food with save place in internal storage |
 | [service-printe](https://github.com/MR-Munggaran/service-printe) | CSS/HTML landing page for printing service                   |
-| [Sistem-hospital-dummy](https://github.com/MR-Munggaran/Sistem-hospital-dummy) | JavaScript-based hospital management simulation              |
+| [Ticketing-System.](https://github.com/MR-Munggaran/Ticketing-System.) | A Website for Buying Ticket Event with management Ticketing          |
 | [startnews-mobile](https://github.com/MR-Munggaran/startnews-mobile) | News app built with React Native & TypeScript                |
 | [news-baru](https://github.com/MR-Munggaran/news-baru)            | PHP news portal with admin dashboard                         |
 
